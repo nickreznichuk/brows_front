@@ -11,3 +11,41 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.spinner-styles {
+  width: 150px!important;
+  height: 150px!important;
+}
+
+.spinner-wrapper-styles {
+  position: absolute;
+  top: calc(50% - 75px);
+  left: calc(50% - 75px);
+}
+
+.first-tr-styles {
+  width: 120px;
+}
+
+.card-styles {
+  margin-bottom: 10px;
+}
+
+.nav_link_styles{
+  color: #fff;
+  padding: 5px 15px;
+  margin: 0 5px;
+  text-decoration: none!important;
+  border:1px solid white;
+  border-radius: 5px;
+}
+
+.nav_link_styles:hover {
+  color: #fff;
+  background-color: yellowgreen;
+  border:1px solid yellowgreen;
+}
+
+.container-wrapper {
+  margin-bottom: 70px;
+}
